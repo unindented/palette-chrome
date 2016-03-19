@@ -8,7 +8,8 @@ var ExtractTextPlugin = require('extract-text-webpack-plugin')
 module.exports = function (options) {
   options = options || {}
 
-  var optimize = (options.environment === 'production')
+  var platform = options.platform
+  var optimize = (options.environment === 'production' && platform === 'chrome')
 
   return {
     entry: {
@@ -18,7 +19,7 @@ module.exports = function (options) {
     },
 
     output: {
-      path: './dist/' + options.platform,
+      path: './dist/' + platform,
       pathinfo: !optimize,
       filename: '[name].js'
     },
@@ -30,7 +31,7 @@ module.exports = function (options) {
       root: [
         path.resolve(__dirname, './'),
         path.resolve(__dirname, './src'),
-        path.resolve(__dirname, './src/platform/', options.platform)
+        path.resolve(__dirname, './src/platform/', platform)
       ],
 
       modulesDirectories: [

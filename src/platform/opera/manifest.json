@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "default_locale": "en",
+  "name": "__MSG_ext_name__",
+  "description": "__MSG_ext_description__",
+  "version": "${version}",
+  "minimum_chrome_version": "43.0",
+  "icons": {
+    "16": "assets/icon_16.png",
+    "19": "assets/icon_19.png",
+    "32": "assets/icon_32.png",
+    "38": "assets/icon_38.png",
+    "128": "assets/icon_128.png",
+    "256": "assets/icon_256.png",
+    "512": "assets/icon_512.png"
+  },
+  "background": {
+    "page": "background.html"
+  },
+  "options_ui": {
+    "page": "options.html"
+  },
+  "permissions": [
+    "clipboardWrite",
+    "contextMenus",
+    "storage",
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ]
+}

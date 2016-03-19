@@ -10,3 +10,4 @@ after_script:
   - 'npm run build'
   - 'sha256sum ./dist/chrome/*'
   - 'sha256sum ./dist/firefox/*'
+  - 'sha256sum ./dist/opera/*'
