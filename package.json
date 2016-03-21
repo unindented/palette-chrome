@@ -53,7 +53,7 @@
     "neuquant-js": "^0.1.0",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
-    "react-mdl": "^1.4.1",
+    "react-mdl": "^1.5.2",
     "react-router": "^2.0.0"
   },
   "devDependencies": {
