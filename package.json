@@ -104,7 +104,7 @@
     "node-libs-browser": "^1.0.0",
     "node-sass": "^3.4.2",
     "npm-run-all": "^1.5.1",
-    "phantomjs-prebuilt": "^2.1.4",
+    "phantomjs-prebuilt": "^2.1.7",
     "postcss-loader": "^0.8.0",
     "react-addons-test-utils": "^0.14.7",
     "rimraf": "^2.5.1",
