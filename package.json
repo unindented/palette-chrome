@@ -52,7 +52,7 @@
     "material-design-lite": "^1.1.1",
     "neuquant-js": "^0.1.0",
     "react": "^0.14.7",
-    "react-dom": "^0.14.7",
+    "react-dom": "^15.0.1",
     "react-mdl": "^1.4.1",
     "react-router": "^2.0.0"
   },
