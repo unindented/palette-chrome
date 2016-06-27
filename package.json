@@ -108,7 +108,7 @@
     "postcss-loader": "^0.9.1",
     "react-addons-test-utils": "^15.0.2",
     "rimraf": "^2.5.1",
-    "sass-loader": "^3.1.2",
+    "sass-loader": "^4.0.0",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.13",
     "worker-loader": "^0.7.0",
