@@ -57,7 +57,7 @@
     "react-router": "^2.0.0"
   },
   "devDependencies": {
-    "autoprefixer": "^6.3.1",
+    "autoprefixer": "^6.3.5",
     "babel-core": "^6.5.1",
     "babel-eslint": "^6.0.0",
     "babel-loader": "^6.2.2",
