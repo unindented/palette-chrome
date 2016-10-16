@@ -105,7 +105,7 @@
     "node-sass": "^3.10.0",
     "npm-run-all": "^3.1.0",
     "phantomjs-prebuilt": "^2.1.12",
-    "postcss-loader": "^0.13.0",
+    "postcss-loader": "^1.0.0",
     "react-addons-test-utils": "^15.3.2",
     "rimraf": "^2.5.4",
     "sass-loader": "^4.0.2",
