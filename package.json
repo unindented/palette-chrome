@@ -76,7 +76,7 @@
     "eslint-config-standard": "^6.2.1",
     "eslint-config-standard-jsx": "^3.2.0",
     "eslint-config-standard-react": "^4.2.0",
-    "eslint-plugin-promise": "^3.3.0",
+    "eslint-plugin-promise": "^3.4.0",
     "eslint-plugin-react": "^6.5.0",
     "eslint-plugin-standard": "^2.0.1",
     "exports-loader": "^0.6.3",
