@@ -51,7 +51,7 @@
     "material-design-icons": "^3.0.1",
     "material-design-lite": "^1.2.1",
     "neuquant-js": "^0.2.0",
-    "react": "^15.3.2",
+    "react": "^15.4.1",
     "react-dom": "^15.3.2",
     "react-mdl": "^1.7.2",
     "react-router": "^3.0.0"
