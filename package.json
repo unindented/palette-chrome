@@ -45,7 +45,7 @@
     "classnames": "^2.2.5",
     "color-convert": "^1.8.2",
     "copy-to-clipboard": "^3.0.5",
-    "core-decorators": "^0.15.0",
+    "core-decorators": "^0.17.0",
     "dialog-polyfill": "^0.4.5",
     "lodash": "^4.17.2",
     "material-design-icons": "^3.0.1",
