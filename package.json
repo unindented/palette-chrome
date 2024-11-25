@@ -109,7 +109,7 @@
     "react-addons-test-utils": "^15.4.1",
     "rimraf": "^2.5.4",
     "sass-loader": "^4.1.0",
-    "style-loader": "^0.13.1",
+    "style-loader": "^0.14.0",
     "webpack": "^1.14.0",
     "worker-loader": "^0.7.1",
     "wrap-loader": "^0.1.0"
