@@ -70,7 +70,7 @@
     "babel-runtime": "^6.20.0",
     "bower": "^1.8.0",
     "coveralls": "^2.11.15",
-    "css-loader": "^0.27.1",
+    "css-loader": "^0.28.2",
     "es6-shim": "^0.35.2",
     "eslint": "^3.12.2",
     "eslint-config-standard": "^6.2.1",
