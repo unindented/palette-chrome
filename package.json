@@ -78,7 +78,7 @@
     "eslint-config-standard-react": "^4.2.0",
     "eslint-plugin-promise": "^3.4.0",
     "eslint-plugin-react": "^6.8.0",
-    "eslint-plugin-standard": "^2.0.1",
+    "eslint-plugin-standard": "^2.2.0",
     "exports-loader": "^0.6.3",
     "expose-loader": "^0.7.1",
     "extract-text-webpack-plugin": "^1.0.1",
